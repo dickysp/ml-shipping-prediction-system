@@ -55,7 +55,7 @@ Things we did before modelling.\
 
 ### Modelling
 We tested several algorithms and the results are presented below.
-|             Model           |     Recall    |     Precission    |     Accuracy    |     AUC    |                Feature               |
+|             Model           |     Recall    |     Precision    |     Accuracy    |     AUC    |                Feature               |
 |:---------------------------:|:-------------:|:-----------------:|:---------------:|:----------:|:------------------------------------:|
 |     Logistic Regression     |       69%     |         70%       |        64%      |     63%    |             All   Feature            |
 |     KNN                     |       67%     |         71%       |        64%      |     63%    |             All   Feature            |
